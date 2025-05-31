@@ -1,4 +1,6 @@
-react, redux, movies-api
+# technologies used
+
+react, redux, themoviedb api
 
 # Getting Started with Create React App
 
